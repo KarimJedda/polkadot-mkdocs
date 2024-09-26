@@ -17,6 +17,7 @@ parachain
 parachain's
 parachains
 parathread
+parathreads
 preimage
 preimages
 rebond

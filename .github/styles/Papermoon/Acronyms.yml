@@ -28,6 +28,7 @@ exceptions:
   - GRANDPA
   - GTK
   - GUI
+  - HRMP
   - HTML
   - HTTP
   - HTTPS
@@ -48,6 +49,7 @@ exceptions:
   - POST
   - RAM
   - REPL
+  - ROC
   - RPC
   - RPM
   - RSA
