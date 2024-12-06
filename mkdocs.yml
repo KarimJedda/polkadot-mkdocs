@@ -69,6 +69,8 @@ markdown_extensions:
 
 plugins:
   - search
+  - neoteroi.mkdocsoad:
+      use_pymdownx: True
   - awesome-pages
   - redirects:
       redirect_maps:
